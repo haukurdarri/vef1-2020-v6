@@ -1,6 +1,6 @@
 # Verkefni 6
 
-## Lýsing
+## Lýsing b
 
 Nú er eigandi _Bókabúðarinnar_ kátur með útlitið en hefur áhyggjur af viðhaldi á vefnum.
 
